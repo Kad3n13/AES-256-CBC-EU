@@ -62,3 +62,26 @@
 <h2>4f9a1e6d3c78f2b9e51d7aa6c3f249e5f1b0dca4729e8c14a6d2e38c7bf6a1d3
 </h2>
 <img src="https://github.com/user-attachments/assets/502b73cf-aa69-4b57-8d32-ce5586989cf1" alt="Screenshot 2025-05-28 035636" width="100%" />
+<h6>MIT License
+
+Copyright (c) 2025 Kaden
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Additionally, **any use, distribution, or derivative work must clearly credit the original author, "Kaden", in any related documentation or about sections.**
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</h6>
